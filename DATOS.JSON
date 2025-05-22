@@ -1,1 +1,26 @@
-[{id,nombre,telefono}]
+[
+  {
+    "id": 1,
+    "nombre": "Jorge",
+    "apellido": "Guerrero",
+    "Telefono": "656 989 5478",
+    "Direccion": "Piña #6354",
+    "pfp": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  },
+  {
+   "id": 1,
+    "nombre": "Melaine",
+    "apellido": "Vega",
+    "Telefono": "656 090 6589",
+    "Direccion": "Riveras del Bravo #5721",
+    "pfp": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  },
+  {
+    "id": 1,
+    "nombre": "Dorle",
+    "apellido": "Zuñiga",
+    "Telefono": "656 101 7690",
+    "Direccion": "Manzana05",
+    "pfp": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  }
+]
